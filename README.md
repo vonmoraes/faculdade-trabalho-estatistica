@@ -4,9 +4,8 @@
 
 Considere a variavel aleatória X com a distribuição de probabilidade abaixo.
 
-|Variável|Valor 1|Valor 2|Valor 3|Valor 4|Valor 5|
-|-|-|-|-|-|-|
 |x|1|2|3|4|5|
+|-|-|-|-|-|-|
 |P(x)|0.05|0.25|0.4|0.25|0.05|
 
 1. Faça o gráfico da distribuição de probabilidade da variável aleatória X.
